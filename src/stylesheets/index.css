@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #eef3fc;
+}
+
+body {
+  margin: 0;
+  background-color: var(--primary-color);
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+}

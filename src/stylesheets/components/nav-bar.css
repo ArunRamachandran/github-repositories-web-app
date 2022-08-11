@@ -1,0 +1,20 @@
+.app-navbar-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 50px;
+    background-color: #fff; 
+    padding: 0 20px;
+    position: sticky;
+}
+
+.app-navbar-wrapper h2 {
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.app-navbar-wrapper h2:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
