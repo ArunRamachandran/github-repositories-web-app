@@ -5,8 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Guidelines 
 
 ## Pre-requisites
-    - node version :  > v16
+    - node version :  v16.10.0 or higher
     - yarn 
+
+## Project Guidelines
+
+ Install the dependencies using `yarn install` and start the application using `yarn start`.  
+
 ## Available Scripts
 
 In the project directory, you can run:
